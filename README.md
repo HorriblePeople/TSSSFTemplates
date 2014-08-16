@@ -19,9 +19,9 @@ fonts - All the fonts we use are here!  LinLibertine is used for the flavortext.
 9 - Pegasus
 % - Earth Pony
 @ - Alicorn
-# - Goal
+\# - Goal
 $ - Of Ponies and Peril
-* - Female
+\* - Female
 ; - Male
 < - Ship
 
