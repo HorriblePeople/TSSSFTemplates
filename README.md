@@ -25,14 +25,14 @@ fonts - All the fonts we use are here! See the list below for the fonts and size
  - Copyright: Cabin, 18
  
 TSSSFCabin-Medium is a specialized variant on Cabin that has the symbols for different pony-related icons replacing some characters:
-	8 - Unicorn
-	9 - Pegasus
-	% - Earth Pony
-	@ - Alicorn
-	# - Goal
-	$ - Of Ponies and Peril
-	* - Female
-	; - Male
-	< - Ship
+ * 8 - Unicorn
+ * 9 - Pegasus
+ * % - Earth Pony
+ * @ - Alicorn
+ * # - Goal
+ * $ - Of Ponies and Peril
+ * * - Female
+ * ; - Male
+ * < - Ship
 
 Packard Antique Bold is used in our logo!
