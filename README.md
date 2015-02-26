@@ -13,25 +13,26 @@ symbols - All the symbols that show up in the corners of cards are here.
 
 templates - These are PNGs of all four card types, including the START card in case you want to have Spike or Trixie or Celestia in charge of the board for example.  They have a hole punched in them in the alpha channel so you can easily slap them together in photoshop or gimp or whatever with your own artwork.
 
-fonts - All the fonts we use are here!  Barthowheel is for card titles.  LinLibertine is used for the flavortext.  Ubahn_newpony is a specialized variant on Ubahn that has the symbols for different pony-related icons replacing some characters:
+fonts - All the fonts we use are here! See the list below for the fonts and sizes of each type of text you'll find on the card:
 
-8 - Unicorn
-
-9 - Pegasus
-
-% - Earth Pony
-
-@ - Alicorn
-
-\# - Goal
-
-$ - Of Ponies and Peril
-
-\* - Female
-
-; - Male
-
-< - Ship
-
+ - Title: Bartholowmew, 55
+ - Title (small): Bartholowmew, 45
+ - Body: Cabin, 35
+ - Body (changeling): Cabin, 35
+ - Bar text: Cabin, 38
+ - Bar text (small): Cabin, 35
+ - Flavor text: Klinic, 28
+ - Copyright: Cabin, 18
+ 
+TSSSFCabin-Medium is a specialized variant on Cabin that has the symbols for different pony-related icons replacing some characters:
+	8 - Unicorn
+	9 - Pegasus
+	% - Earth Pony
+	@ - Alicorn
+	# - Goal
+	$ - Of Ponies and Peril
+	* - Female
+	; - Male
+	< - Ship
 
 Packard Antique Bold is used in our logo!
