@@ -23,16 +23,16 @@ fonts - All the fonts we use are here! See the list below for the fonts and size
  - Bar text (small): Cabin, 35
  - Flavor text: Klinic, 28
  - Copyright: Cabin, 18
- 
-TSSSFCabin-Medium is a specialized variant on Cabin that has the symbols for different pony-related icons replacing some characters:
- * 8 - Unicorn
- * 9 - Pegasus
- * % - Earth Pony
- * @ - Alicorn
- * # - Goal
- * $ - Of Ponies and Peril
- * * - Female
- * ; - Male
- * < - Ship
 
 Packard Antique Bold is used in our logo!
+
+TSSSFCabin-Medium is a specialized variant on Cabin that has the symbols for different pony-related icons replacing some unicode characters. The list below covers the unicode characters that have been replaced:
+ * Male  = \u2642
+ * Female  = \u2640
+ * Combination male/female  = \u26A4
+ * Ship  = \u2764
+ * Earth Pony  = \uE000
+ * Unicorn  = \uE001
+ * Pegasus  = \uE002
+ * Alicorn  = \uE003
+ * Postapocalypse/Dystopian future/hourglass  = \uE004
